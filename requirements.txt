@@ -1,0 +1,6 @@
+streamlit>=1.50
+ib_async
+numpy
+pandas
+matplotlib
+yfinance
